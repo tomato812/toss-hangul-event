@@ -1,4 +1,4 @@
-<img width="335" alt="ImNotSpecial" src="https://github.com/user-attachments/assets/f4fc8f5b-a050-4471-8ffc-c288d3ce0f1e" />### 작동 과정
+### 작동 과정
 1. 맥북에서 iphone 미러링 기능을 사용해 아이폰 화면을 실시간 미러링해 맥북 화면에 접근할 수 있게 한다.
 2. 스크린샷 단축키(command+shift+4)를 눌러 아이폰 화면 속 단어들이 있는 부분 사각형의 왼쪽 위, 오른쪽 아래 꼭짓점의 좌표를 구한다.
 3. (x_start, y_start) 좌표에서 스크린샷을 시작하고, width, height 만큼 라이브러리를 사용하여 스크린샷을 자동으로 찍은 후, 새로운 폴더를 생성해 그 폴더 안에 스크린샷 이미지를 자동으로 저장한다.
